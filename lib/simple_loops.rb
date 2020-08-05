@@ -10,7 +10,7 @@ end
 
 def loop_message_n_times(message, n)
   n.times do
-    puts "message"
+    puts message
   end
 end
 
